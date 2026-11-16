@@ -10,8 +10,8 @@ This repository represents **Prototype 1 (Proof of Concept)**, created with visu
 
 This project was developed for the **Mobile Programming (Pemrograman Mobile)** coursework to evaluate rapid prototyping tools versus full-stack cross-platform frameworks.
 
-* **Prototype 1 (This Repository):** Built with **MIT App Inventor** (No-code / Block-based visual framework).
-* **Prototype 2:** Built with **[React Native Fabric (New Architecture)](https://github.com/luthfimeteor/TugasWebViewFabric)** with advanced navigation controls, custom top/bottom bar, and TypeScript.
+- **Prototype 1 (This Repository):** Built with **MIT App Inventor** (No-code / Block-based visual framework).
+- **Prototype 2:** Built with **[React Native Fabric (New Architecture)](https://github.com/luthfimeteor/TugasWebViewFabric)** with advanced navigation controls, custom top/bottom bar, and TypeScript.
 
 ---
 
@@ -26,15 +26,15 @@ This project was developed for the **Mobile Programming (Pemrograman Mobile)** c
 
 ## 📊 Comparison: Prototype 1 vs Prototype 2
 
-| Feature / Aspect | Prototype 1 (MIT App Inventor) | Prototype 2 (React Native Fabric) |
-| :--- | :--- | :--- |
-| **Technology** | MIT App Inventor (Blocks) | React Native 0.87 (Fabric Architecture) |
-| **Language** | Visual Block Programming / Scheme | TypeScript & React 19 |
-| **Rendering Engine** | Standard Android WebView | Fabric (C++ TurboModules & JSI) |
-| **Navigation Bar** | Basic / Built-in browser behavior | Custom Bottom Bar (Prev, Next, Reload) |
-| **Hardware Back Button** | Standard / Default | Intercepted with native `BackHandler` |
-| **Architecture** | Component-based visual flow | Component hierarchy + TypeScript typing |
-| **Code Access** | Visual blocks / Exported `.apk` | Complete native source code (`android/`, `ios/`) |
+| Feature / Aspect         | Prototype 1 (MIT App Inventor)    | Prototype 2 (React Native Fabric)                |
+| :----------------------- | :-------------------------------- | :----------------------------------------------- |
+| **Technology**           | MIT App Inventor (Blocks)         | React Native 0.87 (Fabric Architecture)          |
+| **Language**             | Visual Block Programming / Scheme | TypeScript & React 19                            |
+| **Rendering Engine**     | Standard Android WebView          | Fabric (C++ TurboModules & JSI)                  |
+| **Navigation Bar**       | Basic / Built-in browser behavior | Custom Bottom Bar (Prev, Next, Reload)           |
+| **Hardware Back Button** | Standard / Default                | Intercepted with native `BackHandler`            |
+| **Architecture**         | Component-based visual flow       | Component hierarchy + TypeScript typing          |
+| **Code Access**          | Visual blocks / Exported `.apk`   | Complete native source code (`android/`, `ios/`) |
 
 ---
 
@@ -70,11 +70,10 @@ Webview-prototype-1/
 
 ## 🔗 Related Projects
 
-- 🚀 **Prototype 2**: [TugasWebViewFabric (React Native Fabric / New Architecture)](../TugasWebViewFabric)
+- 🚀 **Prototype 2**: [TugasWebViewFabric (React Native Fabric / New Architecture)](https://github.com/luthfimeteor/TugasWebViewFabric)
 
 ---
 
 ## 📄 License
 
 Created for educational purposes under the **Mobile Programming (Pemrograman Mobile)** coursework.
-
